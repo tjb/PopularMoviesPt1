@@ -1,0 +1,1 @@
+To set the API key, look in the res/values/strings to get your API key.
